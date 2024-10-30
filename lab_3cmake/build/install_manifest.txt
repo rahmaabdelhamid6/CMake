@@ -1,0 +1,3 @@
+/home/rahma/Diploma/04-CMake/lab_3cmake/build/executable/hellobinary
+/home/rahma/Diploma/04-CMake/lab_3cmake/build/include/Wifi.hpp
+/home/rahma/Diploma/04-CMake/lab_3cmake/build/include/calc.hpp

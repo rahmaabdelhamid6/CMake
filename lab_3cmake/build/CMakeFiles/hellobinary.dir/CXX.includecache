@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/calc.hpp
+
+../lib/Wifi.hpp
+
+/home/rahma/Diploma/04-CMake/lab_3cmake/main.cpp
+iostream
+-
+calc.hpp
+/home/rahma/Diploma/04-CMake/lab_3cmake/calc.hpp
+Wifi.hpp
+/home/rahma/Diploma/04-CMake/lab_3cmake/Wifi.hpp
+defaultconfig.h
+/home/rahma/Diploma/04-CMake/lab_3cmake/defaultconfig.h
+
+/home/rahma/Diploma/04-CMake/lab_3cmake/src/calc.cpp
+calc.hpp
+/home/rahma/Diploma/04-CMake/lab_3cmake/src/calc.hpp
+
+defaultconfig.h
+

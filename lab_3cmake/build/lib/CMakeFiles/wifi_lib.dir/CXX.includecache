@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rahma/Diploma/04-CMake/lab_3cmake/lib/Wifi.cpp
+Wifi.hpp
+/home/rahma/Diploma/04-CMake/lab_3cmake/lib/Wifi.hpp
+iostream
+-
+
+/home/rahma/Diploma/04-CMake/lab_3cmake/lib/Wifi.hpp
+
