@@ -1,0 +1,3 @@
+/home/rahma/Diploma/04-CMake/lab_2cmake/build/CMakeFiles/rebuild_cache.dir
+/home/rahma/Diploma/04-CMake/lab_2cmake/build/CMakeFiles/edit_cache.dir
+/home/rahma/Diploma/04-CMake/lab_2cmake/build/CMakeFiles/hellobinary.dir
